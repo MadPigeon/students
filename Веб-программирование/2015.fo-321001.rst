@@ -117,7 +117,7 @@
      -
    * - 10
      - Рычков Всеволод
-     -
+     - MadPigeon_
      -
      -
      -
@@ -160,6 +160,7 @@
 .. _LZiM: https://github.com/LZIM-94
 .. _Dino1992: https://github.com/Dino1992
 .. _dudev: https://github.com/dudev
+.. _MadPigeon: https://github.com/MadPigeon
 
 
 .. Домашняя работа #1
