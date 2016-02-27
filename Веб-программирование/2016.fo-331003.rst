@@ -106,7 +106,7 @@
      -
    * - 9
      - Рычков Всеволод
-     -
+     - MadPigeon_
      -
      -
      -
@@ -196,6 +196,8 @@
 .. _dz5: http://lectures.uralbash.ru/en/latest/6.www.sync/3.framework/pyramid/_checkpoint.html
 
 .. GitHub
+
+.. _MadPigeon: https://github.com/MadPigeon
 
 .. _YuriySimakov: https://github.com/YuriySimakov
 
